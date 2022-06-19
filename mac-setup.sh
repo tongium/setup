@@ -34,6 +34,7 @@ apps=(
     google-cloud-sdk
     dbeaver-community
     lens
+    zoom
 )
 
 brew install --cask ${apps[@]}
