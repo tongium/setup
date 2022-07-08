@@ -13,6 +13,8 @@ cli=(
     git-flow
     nmap
     http-server
+    golang-migrate
+    mockery
 )
 
 brew install ${cli[@]}
