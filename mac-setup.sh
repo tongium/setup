@@ -15,6 +15,7 @@ cli=(
     http-server
     golang-migrate
     mockery
+    volta
 )
 
 brew install ${cli[@]}
